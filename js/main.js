@@ -27,7 +27,7 @@ const cvData = {
         location: "El Mansoura, Egypt",
         availability: "Open for Opportunities",
         github: "https://github.com/A7med7c",
-        linkedin: "https://linkedin.com/in/ahmed-ragab",
+        linkedin: "https://www.linkedin.com/in/a7med-ragab",
         // Typing effect titles
         typingTexts: [
             "Software Engineer",
@@ -110,7 +110,7 @@ to deliver high-quality software solutions.`
             title: "Full Stack .NET Developer (Trainee)",
             company: "Information Technology Institute (ITI)",
             type: "Full-time | Hybrid",
-            location: "El Mansoura, Egypt",
+            location: "Cairo, Egypt",
             period: "October 2025 – Present",
             description: `Trainee in the 9-Month Professional Development & BI-infused CRM Track. 
 Gaining practical experience in .NET development and SQL Server with exposure to Business Intelligence and CRM systems. 
